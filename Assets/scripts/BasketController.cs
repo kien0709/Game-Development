@@ -25,3 +25,5 @@ public class BasketController : MonoBehaviour
         transform.position = pos;
     }
 }
+
+// referentie = een link naar een ander object of script zodat dit script ermee kan werken.

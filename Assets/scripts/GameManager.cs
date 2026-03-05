@@ -180,3 +180,5 @@ public class GameManager : MonoBehaviour
         if (levelText) levelText.text = $"Level: {level}";
     }
 }
+
+// referentie = een link naar een ander object of script zodat dit script ermee kan werken.
